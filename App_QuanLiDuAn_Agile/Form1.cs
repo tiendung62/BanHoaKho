@@ -1,4 +1,4 @@
-namespace App_QuanLiDuAn_Agile
+﻿namespace App_QuanLiDuAn_Agile
 {
     public partial class Form1 : Form
     {
@@ -6,5 +6,12 @@ namespace App_QuanLiDuAn_Agile
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
+//"F:\học tập\Xưởng\App_QuanLiDuAn_Agile"
